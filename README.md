@@ -1,3 +1,7 @@
+Depression Detection Using XLNet (NLP, Deep Learning)
+
+Kaggle | Python, PyTorch, XLNet
+
 •	Built a transformer-based text-classification model using XLNet to detect depression indicators from user-generated text.  
 
 •	Preprocessed and tolenized 10k+ sample, fine-tuned XLNet to reduce overfitting.
